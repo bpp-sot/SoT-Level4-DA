@@ -3,7 +3,7 @@
   display: Inline-block;  
   text-align: center;
   padding: 15px;
-  background-color: darkgray;
+  /* background-color: darkgray; */
   border-radius: 10px;
   align-items: Center;
   display: flex;
