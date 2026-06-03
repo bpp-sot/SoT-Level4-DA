@@ -3,7 +3,7 @@
   display: Inline-block;  
   text-align: center;
   padding: 15px;
-  background-color: #23EB9A;
+  background-color: #000000;
   border-radius: 10px;
   align-items: Center;
   display: flex;
@@ -21,7 +21,7 @@
 <br>
 
 <div class=box>
-<b>Select Topic:</b>&nbsp;&nbsp;&nbsp;&nbsp; @lab.DropDownList(module)[Environment,Access and Credentials,Software and Updates,Skillable Optimizations,Software Licensing,Using this Template,Scoring this Template]
+<b>Select Topic:</b>&nbsp;&nbsp;&nbsp;&nbsp; @lab.DropDownList(module)[Environment,Access and Credentials,Software and Updates]
 </div>
 
 ---
