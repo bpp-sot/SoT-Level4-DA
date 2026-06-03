@@ -3,12 +3,12 @@
   display: Inline-block;  
   text-align: center;
   padding: 15px;
-  /* background-color: darkgray; */
+  background-color: white;
   border-radius: 10px;
   align-items: Center;
   display: flex;
   justify-content: center;
-  color: white;
+  color: black;
   }
 
 </style>
