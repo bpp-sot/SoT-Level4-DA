@@ -8,6 +8,7 @@
   align-items: Center;
   display: flex;
   justify-content: center;
+  color: #ffffff;
   }
 
 </style>
