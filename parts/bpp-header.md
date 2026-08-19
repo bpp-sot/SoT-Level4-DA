@@ -21,8 +21,4 @@
 </center>
 <br>
 
-<div class=box>
-<b>Select Topic:</b>&nbsp;&nbsp;&nbsp;&nbsp; @lab.DropDownList(module)[Environment,Access and Credentials,Software and Updates]
-</div>
-
 ---
